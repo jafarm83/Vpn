@@ -1,1 +1,2 @@
 vless://87e7db2a-ddcd-4694-acc3-4fb6ade82ef9@150.241.76.47:2083?type=grpc&serviceName=Tel%3A%40VPN_KING_V2RAY&authority=&security=reality&pbk=7FlrPPkGLPqvG0Jmv9FSshUrvaoCHBOSMaB0WaFWgDg&fp=firefox&sni=speedtest.net&sid=6c&spx=%2F#KINGVPN%F0%9F%91%91%F0%9F%87%B8%F0%9F%87%AATel%3A%40VPN_KING_V2RAY
+
